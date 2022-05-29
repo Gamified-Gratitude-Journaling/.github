@@ -1,2 +1,6 @@
-# .github
-About gamified gratitude journaling
+# Purpose
+Help people practice gratitude journaling.
+
+# Principles
+TBD
+
