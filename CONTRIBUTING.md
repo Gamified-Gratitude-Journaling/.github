@@ -1,5 +1,5 @@
 # First, Check These External Resources 
-- [Code of conduct]()
+- [Code of conduct](./CODEOFCONDUCT.md)
 - [Discord server](https://discord.gg/RfZBneFayS)
 
 # For Users
