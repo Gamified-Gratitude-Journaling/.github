@@ -18,10 +18,12 @@ Visit our app [here](https://gratitude-journaling.herokuapp.com/): https://grati
 ## For Contributors
 Firstly, thanks for your interest in contributing! 
 This project is separated into a frontend and backend repository, each of which is hosted on a different heroku application.
-Feel free to join our discord server: https://discord.gg/UqB4xchW
+For more information, please reference the [Contributing Guidelines](https://github.com/Gamified-Gratitude-Journaling/.github/blob/main/CONTRIBUTING.md), and feel free to join our [discord server](https://discord.gg/RfZBneFayS)
 
+<!--
 # Frontend Contributors
 Please visit the [frontend repository](https://github.com/Gamified-Gratitude-Journaling/gratitudeJournalingFrontend) for more information.
 
 # Backend Contributors
 Please visit the [backend repository](https://github.com/Gamified-Gratitude-Journaling/gratitudeJournalingBackend) for more information. 
+-->
